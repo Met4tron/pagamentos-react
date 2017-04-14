@@ -6,7 +6,6 @@ export default props => (
 		<a href>
 			<i className={`fa ${props.icon}`}> </i> {props.label}
 			<i className='fa fa-angle-left pull-right'></i>
-
 		</a>
 		<ul className='treeview-menu'>
 			{props.children}
