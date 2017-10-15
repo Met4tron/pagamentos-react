@@ -1,5 +1,16 @@
 .main-footer {
-    position: fixed;
-    bottom: 0px;
-    width: 100%;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+}
+
+button {
+  margin-left: 5px;
+}
+tr th {
+  text-align: left;
+}
+
+.table-actions {
+  width: 150px;
 }

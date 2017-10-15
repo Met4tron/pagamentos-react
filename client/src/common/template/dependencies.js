@@ -4,7 +4,6 @@ import 'modules/admin-lte/plugins/slimScroll/jquery.slimscroll.min';
 import 'modules/admin-lte/dist/js/app.min';
 
 //CSS
-
 import 'modules/font-awesome/css/font-awesome.min.css';
 import 'modules/ionicons/dist/css/ionicons.min.css';
 import 'modules/ionicons/dist/fonts/ionicons.ttf';
